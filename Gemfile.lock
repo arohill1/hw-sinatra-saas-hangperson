@@ -125,7 +125,7 @@ DEPENDENCIES
   rspec (= 3.3.0)
   rspec-autotest (= 1.0.0)
   simplecov (= 0.16.1)
-  sinatra (>= 2.0.2)
+  sinatra (>= 2.0.1)
   sinatra-flash (= 0.3.0)
   webmock (= 3.3.0)
 
